@@ -1,7 +1,6 @@
-# acf-code-field
-Advanced Custom Fields: Code Area Field
+# Advanced Custom Fields: Code Area Field
 
-Adds a 'Code Area' textarea editor to the <a href="http://www.advancedcustomfields.com/">Advanced Custom Fields</a> WordPress plugin.
+Adds a 'Code Area' textarea editor to the <a href="http://www.advancedcustomfields.com/" target="_blank">Advanced Custom Fields</a> WordPress plugin. Code editor used is <a href="http://codemirror.net/" target="_blank">CodeMirror</a>.
 
 Added support for Advanced Custom Fields version 5. Last tested with ACF Pro version 5.3.7.
 
